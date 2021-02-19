@@ -23,5 +23,17 @@
         cursor: pointer;
       }
     }
+    .first {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items:flex-start;
+      justify-content: flex-start;
+      
+      .welcome-text {
+        padding: 0px 30px;
+      }
+    }
+    
   }
   
